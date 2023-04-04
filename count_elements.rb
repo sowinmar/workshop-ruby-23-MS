@@ -6,6 +6,6 @@ class CountElements
   end
 
   def perform
-    @array.tally
+    array.tally
   end
 end
