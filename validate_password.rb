@@ -1,5 +1,6 @@
 class ValidatePassword
   attr_reader :password
+  
   def initialize(password)
     @password = password
   end
